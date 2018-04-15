@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Team LufthansaR
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This R package is developed and maintained by
+
+- Amy G, Joe S, Hatice C and Peter L.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Peter](peter.tingyao@alumni.ubc.ca)
